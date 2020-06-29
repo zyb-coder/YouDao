@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <login username="admin" passwd="123456" count="3">
+        <color>100,149,237</color>
+    </login>
+    <login username="two" passwd="abcd" count="5">
+        <color>69, 139, 0</color>
+    </login>
+</catalog>

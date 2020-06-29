@@ -1,0 +1,10 @@
+2020-05-26 21:10:33,933 - inputWord.py[line:103] - WARNING: radesky-查询失败,来自文件-AAFFS
+2020-05-26 21:10:43,053 - inputWord.py[line:103] - WARNING: tronick-查询失败,来自文件-AAFFS
+2020-05-26 21:10:52,924 - inputWord.py[line:105] - ERROR: ok-写入数据库失败,来自文件-SFSSF
+2020-05-26 21:11:02,509 - inputWord.py[line:105] - ERROR: stress-修改数据库失败,来自文件-SFSSF
+2020-05-26 21:11:10,144 - inputWord.py[line:105] - ERROR: student-修改数据库失败,来自文件-SFSSF
+2020-05-26 21:11:16,081 - inputWord.py[line:103] - WARNING: moritz-查询失败,来自文件-zzzdd
+2020-05-26 21:11:21,166 - inputWord.py[line:103] - WARNING: radesky-查询失败,来自文件-zzzdd
+2020-05-26 21:11:29,966 - inputWord.py[line:103] - WARNING: ve-查询失败,来自文件-zzzdd
+2020-05-26 21:15:45,337 - inputWord.py[line:105] - ERROR: 代码出错:not enough values to unpack (expected 3, got 2)
+2020-05-26 21:20:23,490 - inputWord.py[line:103] - WARNING: dgdga-查询失败,来自文件-ckckck
